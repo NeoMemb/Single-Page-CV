@@ -1,3 +1,4 @@
 # Single-Page-CV
 A single page CV from roadmap.sh projects
-The project URL is https://roadmap.sh/projects/single-page-cv 
+
+**Project URL**: [https://NeoMemb.github.io/Single-Page-CV](https://NeoMemb.github.io/Single-Page-CV)
